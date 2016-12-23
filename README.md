@@ -6,4 +6,4 @@ Gestionar una base de dades desde PHP
 - Consultar les dades d'una BD
 - Esborrar les dades d'una BD
 - Esborrar el contingut d'una BD
-- Eliminar el contingut d'una BD
+- Eliminar la BD
