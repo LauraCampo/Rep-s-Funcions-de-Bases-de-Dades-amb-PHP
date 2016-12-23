@@ -1,4 +1,4 @@
-# Repas-Funcions-de-Bases-de-Dades-amb-PHP
+# Repas Funcions de Bases de Dades amb PHP
 Gestionar una base de dades desde PHP
 
 - Donar d'alta una BD
